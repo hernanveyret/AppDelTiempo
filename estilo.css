@@ -82,6 +82,12 @@ input {
 }
 #icono {
     width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#icono img {
+    width: 80%;
 }
 #time{
     padding: 0 10px;
